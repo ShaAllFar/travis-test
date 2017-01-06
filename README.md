@@ -1,4 +1,7 @@
 # **RESTful API using Express**
+[![Build Status](https://travis-ci.org/ShaAllFar/travis-test.svg?branch=master)](https://travis-ci.org/ShaAllFar/travis-test)
+[![Coverage Status](https://coveralls.io/repos/ShaAllFar/travis-test/badge.svg)](https://coveralls.io/r/ShaAllFar/travis-test)
+
 
 ## Overview
 
